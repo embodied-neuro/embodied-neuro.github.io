@@ -5,6 +5,6 @@
 
   # embodied-neuro's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[embodied-neuro.github.io](https://embodied-neuro.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
