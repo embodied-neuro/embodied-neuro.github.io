@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+Here are a few specific areas we've focused on in the past, though we're very broadly interested in exploring the idea that the brain and body act as one, integrated dynamical system to produce our subjective experience and behavior. We have also collaborated outside of our topical focus area, and would be happy to do so again (e.g., to share our methodological expertise).
+
 {% include section.html %}
 
 ## Self-representation during motor control
