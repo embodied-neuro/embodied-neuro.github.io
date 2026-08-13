@@ -1,20 +1,12 @@
 ---
-name: Jane Smith
+name: John P. Veillette, Ph.D.
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: University of Montana
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-0332-4372
+  google-scholar: V56wBKMAAAAJ
+  github: john-veillette
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+John is an Assistant Professor in the Department of Psychology at the University of Montana. Before coming to UM, he did both his undergraduate (B.S. in Statistics and B.A. in Economics & Psychology) and doctoral (in Psychology concentrating in Integrative Neuroscience) studies at the University of Chicago. During graduate school, John was awarded a National Science Foundation Graduate Research Fellowship in Cognitive Neuroscience as well as a Neubauer Family Distinguished Doctoral Fellowship. He was also a Top-3 finalist for the Meta Augmented/Virtual Reality Research Fellowship in Perception, Cognition, and Action in 2022.
