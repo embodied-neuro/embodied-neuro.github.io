@@ -74,7 +74,7 @@ The ENCAL is led by Dr. John Veillette. The lab is brand new, and we're recruiti
 
 {%
   include feature.html
-  image="images/john-veillette.jpg"
+  image="images/icon.png"
   link="team"
   title="Our Team"
   text=text
