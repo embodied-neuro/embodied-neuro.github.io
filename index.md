@@ -49,7 +49,7 @@ We are committed to doing [open and reproducible science](https://doi.org/10.103
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="assets/figures/badges.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ The ENCAL is led by Dr. John Veillette. The lab is brand new, and we're recruiti
 
 {%
   include feature.html
-  image="assets/logos/lab-logo-black.png"
+  image="images/john-veillette.jpg"
   link="team"
   title="Our Team"
   text=text
