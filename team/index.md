@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The lab is brand new, so there aren't many of us yet! (Either that, or I've just forgotten to update this website for a long time... which, honestly, would be very in character.)
+
+If you're interested in joining as an undergraduate research assistant, graduate student, or postdoc (though I don't have funding for a postdoc at the moment, I am happy to work on a fellowship application with you), please reach out.
 
 {% include section.html %}
 
@@ -18,18 +18,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
