@@ -15,10 +15,10 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-025-00323-5/MediaObjects/44271_2025_323_Fig2_HTML.png?as=webp
+  image: assets/figures/binding.png
 - id: doi:10.1523/JNEUROSCI.2294-24.2025
-  title: Timing of Speech in Brain and Glottis and the Feedback Delay Problem in Motor
-    Control
+  title: Timing of speech in brain and glottis and the feedback delay problem in motor
+    control
   authors:
   - John P. Veillette
   - Jacob Rosen
@@ -28,8 +28,10 @@
   date: '2025-04-14'
   link: https://doi.org/hcfhkv
   orcid: 0000-0002-0332-4372
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: assets/figures/glottis.jpg
 - id: doi:10.31234/osf.io/xw3ek_v1
   title: Natural scenes are more compressible and less memorable than human-made scenes
   authors:
@@ -61,7 +63,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://www.jneurosci.org/content/jneuro/45/18/e1673242025/F3.large.jpg
+  image: images/share.jpg
 - id: doi:10.1038/s44271-025-00190-0
   title: Bayesian p-curve mixture models as a tool to dissociate effect size and effect
     prevalence
@@ -175,8 +177,10 @@
   date: '2023-09-18'
   link: https://doi.org/hcfhk9
   orcid: 0000-0002-0332-4372
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: assets/figures/decoder.jpg
 - id: doi:10.31234/osf.io/4z2rj
   title: Metacognition bridges experiences and beliefs in Sense of Agency
   authors:
