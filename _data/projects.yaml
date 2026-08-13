@@ -25,7 +25,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/john-veillette/mne-ari
-  description: "All resolutions inference" a.k.a. statistically-valid circular analysis. Useful for making claims about the spatiotemporal extend of effects in neuroimaging data. Can also be installed with MNE-Python's standalone installer.
+  description: "All resolutions inference" a.k.a. statistically-valid circular analysis. Useful for making claims about the spatiotemporal extend of effects in neuroimaging data. Included with MNE-Python's standalone installer.""
   repo: john-veillette/mne-ari
   tags:
     - resource
