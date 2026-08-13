@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Some of our more popular tools (together, downloaded more than 20,000 times from conda-forge and the PyPi package server!) are featured here. You can find more software on [my](https://github.com/john-veillette) or [the lab's](https://github.com/embodied-neuro) Github accounts. We also make contributions to other open source projects, like [MNE-Python](https://mne.tools/stable/index.html), [PyPREP](https://github.com/sappelhoff/pyprep), and [more](https://gitlab.com/tmsi/tmsi-python-interface).
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -21,7 +20,3 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}

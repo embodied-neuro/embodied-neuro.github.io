@@ -1,47 +1,31 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: p2prev
+  subtitle: Software Package
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-025-00190-0/MediaObjects/44271_2025_190_Fig1_HTML.png?as=webp
+  link: https://doi.org/10.1038/s44271-025-00190-0
+  description: For making inferences about the _population prevalence_ of experimental effects
+  repo: john-veillette/p2prev
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: niseq
+  subtitle: Software package
+  group: featured
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S105381192300383X-gr3.jpg
+  link: https://doi.org/10.1016/j.neuroimage.2023.120232
+  description: Non-parametric sequential tests with multiple testing. You can use this to determine your sample size for neuroimaging (or other!) experiments adaptively.
+  repo: john-veillette/niseq
   tags:
-    - software
+    - resource
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: MNE-ARI
+  subtitle: Software package
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/john-veillette/mne-ari
+  description: "All resolutions inference" a.k.a. statistically-valid circular analysis. Useful for making claims about the spatiotemporal extend of effects in neuroimaging data. Can also be installed with MNE-Python's standalone installer.
+  repo: john-veillette/mne-ari
   tags:
-    - software
+    - resource
