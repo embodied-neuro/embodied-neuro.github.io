@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-## Highlighted
+## Self-representation during motor control
 
-{% include citation.html lookup="Overlapping Cortical Substrate of Biomechanical Control and Subjective Agency" style="rich" %}
+{% include citation.html lookup="doi:10.1523/JNEUROSCI.1673-24.2025" style="rich" %}
+
+{% include citation.html lookup="doi:10.1523/JNEUROSCI.2294-24.2025" style="rich" %}
 
 {% include section.html %}
 
