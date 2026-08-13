@@ -243,3 +243,48 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.concog.2024.103745
+  title: Metacognition bridges experiences and beliefs in sense of agency
+  authors:
+  - John P. Veillette
+  - Letitia Ho
+  - Howard C. Nusbaum
+  publisher: Consciousness and Cognition
+  date: '2024-09-01'
+  link: https://doi.org/hcfhq3
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.31234/osf.io/u2erk_v2
+  title: 'White-Knuckled Prosociality: Loneliness increases willingness to exert effort
+    to benefit others'
+  authors:
+  - Anita Restrepo
+  - Karen E Smith
+  - Sabina Raja
+  - Cynthia Gaspard
+  - Elizabeth Mickiewicz
+  - Gabe Minchev
+  - John Veillette
+  - Gregory Norman
+  publisher: Center for Open Science
+  date: '2026-04-14'
+  link: https://doi.org/hcfhq4
+  type: preprint
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1038/s41598-023-41613-4
+  title: Single-trial visually evoked potentials predict both individual choice and
+    market outcomes
+  authors:
+  - John P. Veillette
+  - Shannon L. M. Heald
+  - Benjamin Wittenbrink
+  - Katherine S. Reis
+  - Howard C. Nusbaum
+  publisher: Scientific Reports
+  date: '2023-09-01'
+  link: https://doi.org/hcfhq5
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
