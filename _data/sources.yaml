@@ -6,12 +6,21 @@
 - id: doi:10.1038/s44271-025-00323-5
   title: Intentional binding effect depends on conscious access to the sensory consequences of action
   type: paper
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-025-00323-5/MediaObjects/44271_2025_323_Fig2_HTML.png?as=webp
-
+  image: assets/figures/binding.png
+  
 - id: doi:10.1523/JNEUROSCI.1673-24.2025
   title: Overlapping Cortical Substrate of Biomechanical Control and Subjective Agency
   type: paper
-  image: https://www.jneurosci.org/content/jneuro/45/18/e1673242025/F3.large.jpg
+  image: images/share.jpg
+
+- id: doi:10.1523/JNEUROSCI.2294-24.2025
+  title: Timing of speech in brain and glottis and the feedback delay problem in motor control
+  type: paper
+  image: assets/figures/glottis.jpg
+
+- id: doi:10.1523/JNEUROSCI.1116-23.2023
+  type: paper
+  image: assets/figures/decoder.jpg
 
 - id: doi:10.1016/j.cub.2025.08.007
   type: paper
