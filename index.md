@@ -1,9 +1,9 @@
 ---
 ---
 
-# embodied-neuro's Website
+# Embodied Neural Computation and Awareness Lab
 
-An engaging 1-3 sentence description of your lab.
+Most cognitive neuroscience research, especially concerning humans, treats the brain as if it were a standalone computer. In reality, neural "computation" both influences and is itself influenced by biological processes throughout the body. We study how the brain-body axis shapes our conscious subjective experience of ourselves and of the world around us. To this end, we integrate computational and empirical experimental approaches to concretely link biological mechanisms with downstream psychological manifestations (e.g., what we see or hear, whether we feel a sense of agency, etc.). Our lab space is located in the basement of the Skaggs Research Building, where we host (or are about to... the lab is brand new!) a state-of-the-art facility for behavioral/psychophysical testing, non-invasive brain measurements (electroencephalography, a.k.a. EEG), cardiography, beat-to-beat blood pressure monitoring, electrical stimulation (e.g., muscle or nerve stimulation, galvanic vestibular stimulation, transcranial brain stimulation), and more! **We are recruiting new [graduate students](https://www.umt.edu/psychology/graduates/experimental-psychology1/default.php)! The deadline to [apply](https://www.umt.edu/psychology/graduates/how-to-apply.php) is December 1st.**
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Some current focus areas include motor control (moving the body), interoception (sensing the body), and conscious self-awareness. Check out some of our work!
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We also develop new statistical methods for behavioral and neuroimaging data, and we build open source software tools for other scientists.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The ENCAL is led by Dr. John Veillette. The lab is brand new, and we're recruiting new members!
 
 {%
   include button.html
