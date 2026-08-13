@@ -15,3 +15,12 @@
 
 - id: doi:10.1016/j.cub.2025.08.007
   type: paper
+
+- id: doi:10.1016/j.concog.2024.103745
+  type: paper
+
+- id: 10.31234/osf.io/u2erk_v2
+  type: preprint
+
+- id: 10.1038/s41598-023-41613-4
+  type: paper
