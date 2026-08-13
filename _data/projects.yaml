@@ -1,7 +1,7 @@
 - title: p2prev
   subtitle: Software Package
   group: featured
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-025-00190-0/MediaObjects/44271_2025_190_Fig1_HTML.png?as=webp
+  image: assets/figures/mixtures.png
   link: https://doi.org/10.1038/s44271-025-00190-0
   description: For making inferences about the _population prevalence_ of experimental effects
   repo: john-veillette/p2prev
@@ -23,7 +23,7 @@
 - title: MNE-ARI
   subtitle: Software package
   group: featured
-  image: images/photo.jpg
+  image: assets/figures/ari.png
   link: https://github.com/john-veillette/mne-ari
   description: All Resolutions Inference a.k.a. statistically-valid circular analysis. Useful for making claims about the spatiotemporal extend of effects in neuroimaging data. Included with MNE-Python's standalone installer.
   repo: john-veillette/mne-ari
