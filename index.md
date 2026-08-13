@@ -26,7 +26,7 @@ Some current focus areas include motor control (moving the body), interoception 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/share.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +34,7 @@ Some current focus areas include motor control (moving the body), interoception 
 
 {% capture text %}
 
-We also develop new statistical methods for behavioral and neuroimaging data, and we build open source software tools for other scientists.
+We are committed to doing [open and reproducible science](https://doi.org/10.1038/s44271-023-00003-2), which is why we believe sharing not just our research findings (i.e., publications) but also the tools we develop for our research is critical. We develop new quantitative methods for experimental design and statistical inference from behavioral and neuroimaging data, and we build open source software tools for other scientists.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ We also develop new statistical methods for behavioral and neuroimaging data, an
 
 {% capture text %}
 
-The ENCAL is led by Dr. John Veillette. The lab is brand new, and we're recruiting new members!
+The ENCAL is led by Dr. John Veillette. The lab is brand new, and we're recruiting our first members!
 
 {%
   include button.html
@@ -74,7 +74,7 @@ The ENCAL is led by Dr. John Veillette. The lab is brand new, and we're recruiti
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="assets/logos/lab-logo-black.png"
   link="team"
   title="Our Team"
   text=text
