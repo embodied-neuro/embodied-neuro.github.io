@@ -37,6 +37,8 @@ We're all familiar with our _exteroceptive_ senses: sight, hearing, smell, taste
 
 {% include citation.html lookup="doi:10.7554/eLife.95599.2" style="rich" %}
 
+{% include citation.html lookup="doi:10.64898/2026.08.17.745255" style="rich" %}
+
 {% include section.html %}
 
 ## All
