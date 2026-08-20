@@ -33,7 +33,7 @@ Our brain processes self-caused sensations differently from how it processes ext
 
 ## Influences of interoceptive sensory signals on exteroceptive perception
 
-We're all familiar with our _exteroceptive_ senses: sight, hearing, smell, taste, and touch. Did you know there are also sensory organs inside the body? These _interoceptive senses_ and responsible for keeping the brain informed about what's going in in the body's other organs (e.g.. the heart, lungs, and gut). We're interested in how interoceptive senses alter brain processes, and how those alterations affect our subjective experiences. A nice illustration: We've done some neat studies where participants may perceive the same physical stimulus (e.g., an image) totally differently depending on their heartbeat!
+We're all familiar with our _exteroceptive_ senses: sight, hearing, smell, taste, and touch. Did you know there are also sensory receptors inside the body? These _interoceptive senses_ and responsible for keeping the brain informed about what's going in in the body's other organs (e.g.. the heart, lungs, and gut). We're interested in how interoceptive senses alter brain processes, and how those alterations affect our subjective experiences. A nice illustration: We've done some neat studies where participants may perceive the same physical stimulus (e.g., an image) totally differently depending on their heartbeat!
 
 {% include citation.html lookup="doi:10.7554/eLife.95599.2" style="rich" %}
 
