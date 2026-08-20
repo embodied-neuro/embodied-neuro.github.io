@@ -259,7 +259,7 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: 10.31234/osf.io/u2erk_v2
+- id: doi:10.31234/osf.io/u2erk_v2
   title: 'White-Knuckled Prosociality: Loneliness increases willingness to exert effort
     to benefit others'
   authors:
@@ -277,7 +277,7 @@
   type: preprint
   plugin: sources.py
   file: sources.yaml
-- id: 10.1038/s41598-023-41613-4
+- id: doi:10.1038/s41598-023-41613-4
   title: Single-trial visually evoked potentials predict both individual choice and
     market outcomes
   authors:
@@ -290,5 +290,20 @@
   date: '2023-09-01'
   link: https://doi.org/hcfhq5
   type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.64898/2026.08.17.745255
+  title: 'Listening with your heart: The heartbeat shapes auditory object formation
+    by suppressing the early neural response to sound'
+  authors:
+  - John P Veillette
+  - Aditi Joshi
+  - Ying Li
+  - Howard C Nusbaum
+  publisher: openRxiv
+  date: '2026-08-20'
+  link: https://doi.org/hcgcfd
+  type: preprint
+  image: assets/figures/streaming.png
   plugin: sources.py
   file: sources.yaml
