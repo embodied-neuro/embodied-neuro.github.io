@@ -37,3 +37,6 @@
 - id: doi:10.64898/2026.08.17.745255
   type: preprint
   image: assets/figures/streaming.png
+
+- id: doi:10.64898/2026.08.17.745263
+  type: preprint
