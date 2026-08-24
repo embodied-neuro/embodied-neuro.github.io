@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.17.745263
+  title: Encoding of semantic meaning in the brain reflects religious affiliation
+  authors:
+  - John P Veillette
+  - Elizabeth McCarthy
+  - Elizabeth Gaillard
+  - Nakwon Rim
+  - Edward Foley
+  - Howard C Nusbaum
+  publisher: openRxiv
+  date: '2026-08-21'
+  link: https://doi.org/hcgk8z
+  orcid: 0000-0002-0332-4372
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+- id: doi:10.64898/2026.08.17.745255
+  title: 'Listening with your heart: The heartbeat shapes auditory object formation
+    by suppressing the early neural response to sound'
+  authors:
+  - John P Veillette
+  - Aditi Joshi
+  - Ying Li
+  - Howard C Nusbaum
+  publisher: openRxiv
+  date: '2026-08-20'
+  link: https://doi.org/hcgcfd
+  orcid: 0000-0002-0332-4372
+  plugin: sources.py
+  file: sources.yaml
+  type: preprint
+  image: assets/figures/streaming.png
 - id: doi:10.1038/s44271-025-00323-5
   title: Intentional binding effect depends on conscious access to the sensory consequences
     of action
@@ -290,20 +322,5 @@
   date: '2023-09-01'
   link: https://doi.org/hcfhq5
   type: paper
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.64898/2026.08.17.745255
-  title: 'Listening with your heart: The heartbeat shapes auditory object formation
-    by suppressing the early neural response to sound'
-  authors:
-  - John P Veillette
-  - Aditi Joshi
-  - Ying Li
-  - Howard C Nusbaum
-  publisher: openRxiv
-  date: '2026-08-20'
-  link: https://doi.org/hcgcfd
-  type: preprint
-  image: assets/figures/streaming.png
   plugin: sources.py
   file: sources.yaml
